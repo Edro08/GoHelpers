@@ -1,4 +1,4 @@
-module GoYamlConfig
+module github.com/Edro08/GoHelpers
 
 go 1.23.1
 
